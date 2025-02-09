@@ -1,4 +1,3 @@
-```md
 # EthOxford - Ideco Project (deFAI)
 
 ![Project Logo](img/logo.png)
@@ -20,7 +19,7 @@ This project integrates multiple blockchain ecosystems:
 ## Goal
 The project is designed to assist users like **Ben**, a 33-year-old Uber driver, in investing and monitoring his onchain assets on **BNB and AVAX**.
 
-![Explanation](img/Explanation-AIAgent-Ideco.png)
+![Explanation_img](img/Explanation-AIAgent-Ideco.jpg)
 
 ### Use Case
 - Mahmoud invests **$250 per week** via Telegram.
