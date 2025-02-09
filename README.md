@@ -22,7 +22,7 @@ The project is designed to assist users like **Ben**, a 33-year-old Uber driver,
 ![Explanation_img](img/Explanation-AIAgent-Ideco.jpg)
 
 ### Use Case
-- Mahmoud invests **$250 per week** via Telegram.
+- Ben invests **$250 per week** via Telegram.
 - He can rebalance his portfolio weekly.
 - Receives **alerts on major market movements**.
 - Funds are **distributed** across **BNB and AVAX** ecosystems.
