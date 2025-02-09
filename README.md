@@ -1,7 +1,7 @@
 ```md
 # EthOxford - Ideco Project (deFAI)
 
-![Project Logo](https://example.com/project-logo.png)
+![Project Logo](img/logo.png)
 
 ## Overview
 **deFAI** is an AI-powered onchain investment assistant built on **AVAX** and **BNB**. It helps users automatically invest, monitor, and rebalance their portfolios via **Telegram**, using real-time blockchain data and alerts.
@@ -18,7 +18,9 @@ This project integrates multiple blockchain ecosystems:
 3. **BNB** - Investment and portfolio management on Binance Smart Chain (BSC).
 
 ## Goal
-The project is designed to assist users like **Mahmoud**, a 33-year-old Uber driver, in investing and monitoring his onchain assets on **BNB and AVAX**. 
+The project is designed to assist users like **Ben**, a 33-year-old Uber driver, in investing and monitoring his onchain assets on **BNB and AVAX**.
+
+![Explanation](img/Explanation-AIAgent-Ideco.png)
 
 ### Use Case
 - Mahmoud invests **$250 per week** via Telegram.
@@ -91,7 +93,7 @@ We welcome contributions! Please follow these steps:
 2. Create a new branch (`feature-name`).
 3. Submit a pull request.
 
-For questions, reach out to **Jules, Medhi, or Rayan**.
+For questions, reach out to **[Jules](https://github.com/julesfoa), [Medhi](https://github.com/Dimeh91), or [Rayan](https://github.com/rayan-elidrissi)!**.
 
 ---
 ### 🚀 Stay tuned for upcoming releases!
