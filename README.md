@@ -94,6 +94,4 @@ We welcome contributions! Please follow these steps:
 
 For questions, reach out to **[Jules](https://github.com/julesfoa), [Medhi](https://github.com/Dimeh91), or [Rayan](https://github.com/rayan-elidrissi)!**.
 
----
 ### 🚀 Stay tuned for upcoming releases!
-```
