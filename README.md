@@ -1,9 +1,9 @@
-# EthOxford - Ideco Project (deFAI)
+# EthOxford - Ideco Project (DeFAI)
 
 ![Project Logo](img/logo.png)
 
 ## Overview
-**deFAI** is an AI-powered onchain investment assistant built on **AVAX** and **BNB**. It helps users automatically invest, monitor, and rebalance their portfolios via **Telegram**, using real-time blockchain data and alerts.
+**DeFAI** is an AI-powered onchain investment assistant built on **AVAX** and **BNB**. It helps users automatically invest, monitor, and rebalance their portfolios via **Telegram**, using real-time blockchain data and alerts.
 
 ## Team Members
 - **Jules**
@@ -48,6 +48,7 @@ The project consists of three core components:
 
 ### AI Agent Integration
 - [ElizaOS AI](https://www.elizaos.ai/)
+- [Here]((https://t.me/EthOxford_bot)) is the telegram bot we fine-tuned using NLP and deployed
 
 ### Blockchain APIs & Protocols
 #### **BNB**
