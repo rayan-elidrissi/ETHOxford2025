@@ -48,7 +48,7 @@ The project consists of three core components:
 
 ### AI Agent Integration
 - [ElizaOS AI](https://www.elizaos.ai/)
-- [Here](https://t.me/EthOxford_bot) is the telegram bot we fine-tuned using NLP and deployed
+- [Here](https://t.me/EthOxford_bot) is the telegram bot we fine-tuned and then deployed
 
 ### Blockchain APIs & Protocols
 #### **BNB**
