@@ -135,7 +135,7 @@ Impact & Observations:
 </ul>
 
 Ethical Considerations:
-The project's potential for misuse raises serious ethical concerns about the responsible development and deployment of such powerful technologies.  Further discussion and frameworks are needed to address these concerns.
+The project s potential for misuse raises serious ethical concerns about the responsible development and deployment of such powerful technologies.  Further discussion and frameworks are needed to address these concerns.
 
 Alignment with Long-Term Values:
 
@@ -143,7 +143,7 @@ NeuroStrike aligns with the core value of radical innovation by pushing the boun
 
 Recommendations:
 <ul>
-<li>Further research and development to refine NeuroStrike's capabilities.</li>
+<li>Further research and development to refine NeuroStrike s capabilities.</li>
 <li>Establish ethical guidelines and safeguards to prevent misuse.</li>
 <li>Engage with policymakers and stakeholders to address national security concerns.</li>
 <li>Explore potential applications beyond intelligence warfare, such as cybersecurity and information integrity.</li>
