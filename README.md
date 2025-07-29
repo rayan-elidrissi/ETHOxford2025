@@ -1,54 +1,51 @@
-# 🚀 DeFAI - AI-Powered Onchain Investment Assistant
+<h1 align="center">🚀 DeFAI</h1>
+<p align="center">
+<strong>AI-Powered, Cross-Chain Crypto Investment Assistant - Built for Real People, Powered by Telegram</strong>
+</p>
+
+<p align="center">
+@ETHOxford 2025 | Powered by Axelar, BSC, and Avalanche
+</p>
+
+---
 
 ## 📌 Overview
-Managing crypto investments is complex and time-consuming. **DeFAI** simplifies it by providing an AI-powered, cross-chain investment assistant that automates trades, rebalances portfolios, and tracks whale movements—all within **Telegram**.
+
+**Managing crypto portfolios is complex, noisy, and time-consuming.**  
+**DeFAI** simplifies investing by providing an AI-powered assistant that automates trades, rebalances portfolios, and tracks on-chain whale activity - all from the convenience of a Telegram chat.
+
+---
 
 ## 👤 Meet Ben
-Ben, a 33-year-old Uber driver, wants to **invest $250 per week** in AVAX and BNB but doesn't have time to manage trades manually. With **DeFAI**, he can:
-✅ Set up automatic weekly investments  
-✅ Receive alerts on whale transactions and market shifts  
-✅ Rebalance his portfolio seamlessly via Telegram  
+
+Ben is a 33-year-old Uber driver who wants to invest **$250/week** into **AVAX** and **BNB**, but he doesn’t have time to micromanage trades.
+
+With **DeFAI**, Ben can:
+- ✅ Set up automated weekly investments  
+- ✅ Get real-time alerts on market shifts & whale moves  
+- ✅ Rebalance his portfolio via Telegram without logging into any DEX  
 
 ---
 
 ## 🔥 Features
-✅ **Automated AI Investing** – AI analyzes market trends and executes trades  
-✅ **Real-Time Whale Tracking** – Alerts on large transactions  
-✅ **Cross-Chain Execution** – Interoperability with Axelar  
-✅ **Telegram Integration** – Simple UI for crypto investments  
+
+| Feature | Description |
+|--------|-------------|
+| 🤖 **AI-Driven Trading** | Market trend analysis, strategy optimization |
+| 🐋 **Whale Tracking** | Alerts on large on-chain transactions |
+| 🔗 **Cross-Chain Execution** | Powered by [Axelar](https://axelar.network) for AVAX ↔ BNB interoperability |
+| 💬 **Telegram UI** | Trade, monitor, and rebalance directly from chat |
 
 ---
 
 ## 📊 How It Works
-1️⃣ **User deposits funds** (BNB/AVAX)  
-2️⃣ **AI tracks market & whale movements**  
-3️⃣ **Automated portfolio rebalancing**  
-4️⃣ **Telegram bot provides alerts & trade execution**  
 
-*(Insert a workflow diagram here)*
-
----
-
-## 🔧 Technical Details
-- **Data APIs**: BSCScan, PancakeSwap, Avalanche RPC  
-- **Smart Contracts**: Deployed on AVAX & BNB  
-- **Cross-Chain Messaging**: Axelar  
-- **AI Training**: Market trend analysis, whale monitoring  
-
----
-
-## 📢 Get Started
-🔹 **Try the Telegram Bot**: [Link]  
-🔹 **View the Smart Contracts**: [GitHub Repo]  
-🔹 **Contribute to the Project**: Fork & PR  
-
----
-
-## 🔥 Summary
-- **DeFAI** is an **AI-powered investment assistant** for AVAX & BNB.
-- Built for **easy access via Telegram** with **real-time insights**.
-- **Automates trades, tracks whales, and manages risk**.
-- **Finalist at EthOxford 2025**.
+```plaintext
+1️⃣ User connects wallet and deposits funds (AVAX or BNB)
+2️⃣ DeFAI AI agent analyzes market data + whale activity
+3️⃣ Portfolio allocation and trade timing is optimized
+4️⃣ All executed via a Telegram bot interface
+```
 
 ---
 
@@ -59,7 +56,3 @@ We welcome contributions! Please follow these steps:
 3. Submit a pull request.
 
 For questions, reach out to **[Jules](https://github.com/julesfoa), [Medhi](https://github.com/Dimeh91), or [Rayan](https://github.com/rayan-elidrissi)!**
-
----
-
-## 🚀 Stay tuned for upcoming releases!
