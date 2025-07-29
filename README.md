@@ -1,4 +1,4 @@
-<h1 align="center">🚀 DeFAI</h1>
+<h1 align="center">🚀 BenTrade</h1>
 <p align="center">
 <strong>AI-Powered, Cross-Chain Crypto Investment Assistant - Built for Real People, Powered by Telegram</strong>
 </p>
